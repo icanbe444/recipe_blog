@@ -15,7 +15,11 @@
                         <h2 class="content-title">Recent Recipe</h2>
                         <hr> 
                         <hr>
-            
+                <!-- more content still to come here ... -->
+
+                <!-- Add this ... -->
+                
+                                <!-- // Page content -->
                                 
                 
 
@@ -25,6 +29,6 @@
                 <!-- // footer -->
 
         </div>
-  
+        <!-- // container -->
 </body>
 </html>
